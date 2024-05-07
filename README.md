@@ -71,7 +71,7 @@
   -  Stash the file - `git stash`
   -  Check the list of statsh created - `git stash list`
   -  Check if the working directory is clean - `git status`
-- Checkout to branch - 'geometry-calculator' and create a new branch 'feature/rectanglearea'
+- **Checkout to branch - 'geometry-calculator' and create a new branch 'feature/rectanglearea'**
   -  git checkout -b feature/rectanglearea
 - **update the geometry-calculator app, with the rectangle area feature.**
   -  Add the file to the staging area
